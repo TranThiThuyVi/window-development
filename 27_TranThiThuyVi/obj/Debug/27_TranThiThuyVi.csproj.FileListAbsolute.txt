@@ -1,0 +1,11 @@
+E:\vi\windows\27_TranThiThuyVi\27_TranThiThuyVi\bin\Debug\27_TranThiThuyVi.exe.config
+E:\vi\windows\27_TranThiThuyVi\27_TranThiThuyVi\bin\Debug\27_TranThiThuyVi.exe
+E:\vi\windows\27_TranThiThuyVi\27_TranThiThuyVi\bin\Debug\27_TranThiThuyVi.pdb
+E:\vi\windows\27_TranThiThuyVi\27_TranThiThuyVi\obj\Debug\27_TranThiThuyVi.csprojResolveAssemblyReference.cache
+E:\vi\windows\27_TranThiThuyVi\27_TranThiThuyVi\obj\Debug\_27_TranThiThuyVi.FrmBai03.resources
+E:\vi\windows\27_TranThiThuyVi\27_TranThiThuyVi\obj\Debug\_27_TranThiThuyVi.Properties.Resources.resources
+E:\vi\windows\27_TranThiThuyVi\27_TranThiThuyVi\obj\Debug\27_TranThiThuyVi.csproj.GenerateResource.Cache
+E:\vi\windows\27_TranThiThuyVi\27_TranThiThuyVi\obj\Debug\27_TranThiThuyVi.exe
+E:\vi\windows\27_TranThiThuyVi\27_TranThiThuyVi\obj\Debug\27_TranThiThuyVi.pdb
+E:\vi\windows\27_TranThiThuyVi\27_TranThiThuyVi\obj\Debug\_27_TranThiThuyVi.FrmBai02.resources
+E:\vi\windows\27_TranThiThuyVi\27_TranThiThuyVi\obj\Debug\_27_TranThiThuyVi.FrmBai01.resources
